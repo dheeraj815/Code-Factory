@@ -1,4 +1,3 @@
-
 streamlit
 pandas
 numpy
@@ -8,4 +7,4 @@ xgboost
 lightgbm
 catboost
 shap
-...
+requests
