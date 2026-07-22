@@ -1,10 +1,4 @@
-streamlit
-pandas
-numpy
-plotly
-scikit-learn
-xgboost
-lightgbm
-catboost
-shap
-requests
+streamlit>=1.47.0
+pydantic>=2.11.0
+psutil>=7.0.0
+pytest>=8.4.0
